@@ -17,5 +17,5 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files    = %w[LICENSE README.md CHANGELOG.md]
 
   s.require_paths       = ["lib"]
-  s.add_runtime_dependency "html2haml"
+  s.add_runtime_dependency "html2haml", "2.0.0.beta.1"
 end
